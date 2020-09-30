@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'DavidLibre';
+  src: local('DavidLibre'), url('./assets/Fonts/DavidLibre-Regular.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'), url('./assets/Fonts/Montserrat-Light.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Peddana';
+  src: local('Peddana'), url('./assets/Fonts/Peddana-Regular.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: local('Ralewa'), url('./assets/Fonts/Raleway-ExtraLight.ttf') format('woff');
+}
