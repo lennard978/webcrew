@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lennard978/webcrew/static/css/main.8d3f2cd4.chunk.css",
+    "main.js": "/lennard978/webcrew/static/js/main.595d8e73.chunk.js",
+    "main.js.map": "/lennard978/webcrew/static/js/main.595d8e73.chunk.js.map",
+    "runtime-main.js": "/lennard978/webcrew/static/js/runtime-main.98e0f5c8.js",
+    "runtime-main.js.map": "/lennard978/webcrew/static/js/runtime-main.98e0f5c8.js.map",
+    "static/js/2.a0fabab2.chunk.js": "/lennard978/webcrew/static/js/2.a0fabab2.chunk.js",
+    "static/js/2.a0fabab2.chunk.js.map": "/lennard978/webcrew/static/js/2.a0fabab2.chunk.js.map",
+    "index.html": "/lennard978/webcrew/index.html",
+    "precache-manifest.8cb79c24894538983c694fcc7c094c14.js": "/lennard978/webcrew/precache-manifest.8cb79c24894538983c694fcc7c094c14.js",
+    "service-worker.js": "/lennard978/webcrew/service-worker.js",
+    "static/css/main.8d3f2cd4.chunk.css.map": "/lennard978/webcrew/static/css/main.8d3f2cd4.chunk.css.map",
+    "static/js/2.a0fabab2.chunk.js.LICENSE.txt": "/lennard978/webcrew/static/js/2.a0fabab2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/lennard978/webcrew/static/media/Raleway-ExtraLight.3d22c4cb.ttf",
+    "static/media/home.jpg": "/lennard978/webcrew/static/media/home.9e5beeb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e0f5c8.js",
+    "static/js/2.a0fabab2.chunk.js",
+    "static/css/main.8d3f2cd4.chunk.css",
+    "static/js/main.595d8e73.chunk.js"
+  ]
+}
