@@ -1,9 +1,9 @@
 import React from "react";
 import styled from "styled-components";
 
-export default function BurgerBtn() {
+export default function BurgerBtn({ onClick }) {
   return (
-    <BurgerContainer>
+    <BurgerContainer onClick={onClick}>
       <BurgerLine />
       <BurgerLine />
     </BurgerContainer>
