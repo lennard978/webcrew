@@ -30,14 +30,14 @@ const SocialContainer = styled.div`
   position: absolute;
   bottom: 0;
   left: 0;
-  width: calc(80vw - 50px);
-  height: 50px;
+  width: calc(100vw - 50px);
+  height: 80px;
   border-top: 1px solid lightgray;
 `;
 
 const SocialAnchor = styled.a`
-  color: white;
-  font-size: 20px;
+  color: gold;
+  font-size: 25px;
 `;
 
 const SocialList = styled.ul`
@@ -48,5 +48,5 @@ const SocialList = styled.ul`
 `;
 
 const SocialLi = styled.li`
-  margin: 15px 15px 0 15px;
+  margin: 25px 15px 0 15px;
 `;

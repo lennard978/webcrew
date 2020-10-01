@@ -7,19 +7,19 @@ export default function Menu() {
   return (
     <>
       <MenuContainer>
-        <ul style={{ listStyleType: "none" }}>
-          <li>
+        <ul style={{ listStyleType: "none", textAlign: "center" }}>
+          <List>
             <StyledLink to="/">Home</StyledLink>
-          </li>
-          <li>
+          </List>
+          <List>
             <StyledLink to="/destination">Destination</StyledLink>
-          </li>
-          <li>
+          </List>
+          <List>
             <StyledLink to="/places">Places</StyledLink>
-          </li>
-          <li>
+          </List>
+          <List>
             <StyledLink to="/news">News</StyledLink>
-          </li>
+          </List>
           <Social />
         </ul>
       </MenuContainer>
@@ -36,12 +36,15 @@ const MenuContainer = styled.div`
   justify-content: center;
   align-items: center;
   height: 100vh;
-  width: calc(80vw - 50px);
+  width: calc(100vw - 50px);
 `;
 
 const StyledLink = styled(Link)`
-  color: white;
-  font-size: 25px;
+  color: gold;
+  font-size: 30px;
   text-decoration: none;
-  margin: 5px 0;
+`;
+
+const List = styled.li`
+  margin: 20px 0;
 `;
